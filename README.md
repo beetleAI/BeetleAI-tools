@@ -57,15 +57,12 @@ vue init webpack AI-LAB
 ### How to run VUE application
 
 ```bash
-
 C:\Users\cpm\AI>cd AILAB
-
 C:\Users\cpm\AI\AILAB>npm run dev
-
 ```
 
 ----------------------
-# How to Document your software faster?
+## How to Document your software faster?
 
 Markdown is a utility tool to [Make a README](https://www.makeareadme.com/) for building software documentation easy.
 
@@ -106,7 +103,7 @@ $ node path/to/generateReadMe.js
 ----------------------------------------------------------
 
 
-## AILAB
+## AI LAB
 
 > A Vue.js project
 
