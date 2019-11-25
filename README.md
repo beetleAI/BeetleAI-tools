@@ -6,7 +6,7 @@ The prerequisite for running our software is to have NodeJS and Git, Chrome and 
 
 ### Hardware Requirements:
 ```
-OS : Windows/Mac/Linux
+Operating System : Windows/Mac/Linux
 The application development requires at least 4GB of RAM to run efficiently in any the OS.
 ```
 ### Tools Requirements
