@@ -1,4 +1,4 @@
-# AI Software Lab
+# BeetlAI Software Lab
 
 ## Project pre-requisites
 
