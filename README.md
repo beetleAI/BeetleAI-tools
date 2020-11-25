@@ -14,7 +14,7 @@ The application development requires at least 4GB of RAM to run efficiently in a
 1. Install [Visual Studio Code](https://code.visualstudio.com/Download) (VS code) IDE to develop the code
 2. Install [Atom](https://atom.io/) tool
 3. Install [GIT client](https://git-scm.com/download/gui/windows)
-4. Install [Gliffy ](https://chrome.google.com/webstore/detail/gliffy-diagrams/bhmicilclplefnflapjmnngmkkkkpfad?hl=en) to design and architecture software diagrams.
+4. Install [Draw.io ](https://app.diagrams.net/) to design tool for sfotware architecture diagrams.
 5. Install [notepad ++](https://notepad-plus-plus.org/downloads/v7.8.1/), a light weight editor
 
 ### Install nodeJS and NPM latest stable versions  
